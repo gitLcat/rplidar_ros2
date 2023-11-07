@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "delete remap the device serial port(ttyUSBX) to  rplidar"
+echo "delete remap the device serial port(ttyTHSX) to  rplidar"
 echo "sudo rm   /etc/udev/rules.d/rplidar.rules"
 sudo rm   /etc/udev/rules.d/rplidar.rules
 echo " "
